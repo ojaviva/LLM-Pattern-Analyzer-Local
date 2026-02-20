@@ -1,3 +1,20 @@
+---
+
+## 👤 Autor
+
+**Javier V**  
+Especialista en Inteligencia Artificial aplicada y análisis narrativo estructurado.  
+
+🔗 GitHub: https://github.com/ojaviva  
+🔗 LinkedIn: (agrega aquí tu enlace)
+
+Interesado en:
+- LLMs locales
+- Procesamiento masivo de texto
+- Automatización de análisis narrativo
+- IA aplicada al sector público y toma de decisiones
+
+
 # 🧠 LLM-Pattern-Analyzer-Local
 
 Pipeline simple de análisis de texto usando un LLM local (Llama 3.1 en LM Studio) para convertir texto no estructurado en información estructurada lista para análisis.
