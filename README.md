@@ -4,7 +4,7 @@
 Especialista en Inteligencia Artificial aplicada y análisis narrativo estructurado.  
 
 🔗 GitHub: https://github.com/ojaviva  
-🔗 LinkedIn: (agrega aquí tu enlace)
+🔗 LinkedIn: https://www.linkedin.com/in/ojaviva/
 
 Interesado en:
 - LLMs locales
